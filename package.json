@@ -1,5 +1,5 @@
 {
-  "name": "hola_express",
+  "name": "hola_express hola",
   "version": "1.0.0",
   "description": "hola express",
   "main": "app.js",
@@ -12,3 +12,4 @@
     "express": "^4.13.3"
   }
 }
+
